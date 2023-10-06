@@ -1,0 +1,5 @@
+declare module 'mfe1/MfefeatureModule'
+declare module 'mfe2/MfefeatureModule'
+declare module 'mfe3/MfefeatureModule'
+declare module 'mfe4/MfefeatureModule'
+declare module 'mfe5/MfefeatureModule'
